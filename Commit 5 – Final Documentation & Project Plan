@@ -1,0 +1,3 @@
+git add Documentation/ProjectPlan.docx Documentation/Part1_Report.docx README.md
+git commit -m "Finalize Part 1 documentation and project plan for submission"
+git push origin main
