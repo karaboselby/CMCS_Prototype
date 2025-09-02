@@ -1,0 +1,3 @@
+git add UML_Diagram.png
+git commit -m "Add UML class diagram for CMCS database design"
+git push origin main
